@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Venila Cake",
+        "price": "500",
+        "ratings": "4.5",
+        "img": "https://afairytaleflavor.com/wp-content/uploads/2021/01/DSC04487-scaled.jpg",
+        "description": "Vanilla is one of the crowd's favourite flavours when it comes to cakes. No matter what the occasion is, be it birthdays, anniversaries, etc, a vanilla flavored cake fits into every celebration and is loved by all. With wide range of sumptuous vanilla cakes online, now you can celebrate every special occasion with utmost fervour. Delicious in taste and rich in texture."
+    },
+    {
+        "name": "Chocolate cake",
+        "price": "600",
+        "ratings": "4.5",
+        "img": "https://i.pinimg.com/736x/ee/4e/fd/ee4efd0d960b477e4dc0373c2837f7a2.jpg",
+        "description": "Just like the monsoon is incomplete without rain, any celebration is and will always be incomplete with chocolate decadence. Full of heavenly cocoa, these are now available from a simple melt-in-mouth chocolate cake to refined versions of chocolate fudge cake, Ferrero Rocher jam-packed indulgence, choco chips cake, choco-truffle and many more."
+    },
+    {
+        "name": "White Forest Cake",
+        "price": "650",
+        "ratings": "4",
+        "img": "https://assets.winni.in/c_limit,dpr_1,fl_progressive,q_80,w_1000/33697_white-forest-cake.jpeg",
+        "description": "The heavenly taste of the white forest can tickle the taste buds. The White forest cake is made with white Chocolate layers and whipped fresh cream and decorated with cherries. White chocolate flakes edging adds an extra star to its look and taste"
+    },
+    {
+        "name": "Black Forest Cake ",
+        "price": "700",
+        "ratings": "4.5",
+        "img": "https://www.mycakeschool.com/images/2019/06/Black-Forest-Cake-from-Scratch-featured-image--720x405.jpg",
+        "description": "Chocolate cake soaked with kirsch liquor, filled with whipped cream and cherries and iced with whipped cream and chocolate shavings.You may choose your cake size, a message to be written on the cake, and color for the writing. If you would like, you may also select to have buttercream roses of your color choice on the cake(options below). All for no extra charge."
+    },
+    {
+        "name": "Orange Cake",
+        "price": "700",
+        "ratings": "4",
+        "img": "https://www.mycakeschool.com/images/2019/04/Lemon-Orange-Cake-Featured-Image-photo-720x720.jpg",
+        "description": "Infused with the flavor of luscious oranges, this delicacy is prepared of three mushy and creamy layers of orange cake. Rich in whipped cream sandwiched between the layers of the cake, it is adorned with delicious dark chocolate carvings on the top. So, order this sumptuous cake from us to turn your special occasions sweeter."
+    },
+    {
+        "name": "Red Velvet Cake",
+        "price": "700",
+        "ratings": "4.5",
+        "img": "https://cdn.shopify.com/s/files/1/0521/3929/4884/products/EgglessRedVelvetCake1.jpg?v=1632141306",
+        "description": "Are you looking for a heavenly delicacy for the next occasion on your calendar? Well, then, look no further because FlowerAura has got you a wide range of melt-in-mouth Heart Shaped Red Velvet Cakes online that will take your celebrations to new heights. Topped with yummylicious cream cheese frosting, our red velvet cakes are baked with the best quality ingredients. So, whatever the occasion is, go ahead to treat your taste buds with a deliciously rich red velvet cake from us."
+    }
+]
