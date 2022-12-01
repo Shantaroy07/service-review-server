@@ -50,6 +50,19 @@ async function run() {
             const reviews = await cursor.toArray();
             res.send(reviews)
         })
+        app.get('/myreviews', async (req, res) => {
+            const email = req.query.email;
+            const query = { email: email }
+            const cursor = reviewCollection.find(query)
+            const reviews = await cursor.toArray();
+            res.send(reviews)
+        })
+        app.post('/services', async (req, res) => {
+            const product = req.body;
+            const result = await serviceCollection.insertOne(product);
+            res.send(result);
+        })
+
 
 
     }
